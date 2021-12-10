@@ -1,0 +1,3 @@
+Folder named "original images" contains original image with original dimensions.
+Folder named "DATASET" contains 3 sets of reduced images of size 128X128X3 which are categorized in shoes, mobile and chair that is used to train classifier.
+Folder named "bottle" contains bottle images that is used to train bottle detector and it also contains ROI(Region of interest) labelling session and ground truth values of the bottle which are labelled with the help of imageLabeler.
